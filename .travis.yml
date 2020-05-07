@@ -21,3 +21,4 @@ after_sucess:
   - docker push anu26/multi-nginx
   - docker push anu26/multi-server
   - docker push anu26/multi-worker 
+  
